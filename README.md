@@ -8,3 +8,8 @@ Acá se muestran 3 columnas, donde la primera representa la región, la segunda 
  
  * Visualización de la data:
  <img width="929" alt="Captura de Pantalla 2023-03-28 a la(s) 22 31 18" src="https://user-images.githubusercontent.com/78231908/228403260-17a28381-1a08-4d72-95f3-add89241b533.png">
+ 
+ A partir del gráfico anterior podemos sacar las siguientes conclusiones
+ 1. Europa, por lejos, es el mayor importador de "cocoa beans"
+ 2. Europa importa mucho más que las otras regiones combinadas
+ 3. Después del año 2016, Asia & Oceania incrementó las toneladas de importacion del commodity
